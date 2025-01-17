@@ -1,0 +1,50 @@
+.apply-today {
+  text-align: center;
+  padding: 80px 40px;
+  margin-bottom: 60px;
+  background-color: aquamarine;
+}
+.apply-today h2 {
+  font-size: 400px;
+  margin-bottom: 50px;
+}
+.apply-today p {
+  font-size: 100px;
+  margin-bottom: 60px;
+}
+
+.form-div {
+  display: flex;
+  justify-content: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 900px;
+  padding: 40px;
+  border: 1px solid #ddd;
+  border-radius: 50px;
+}
+form input,
+form select,
+form button {
+  margin-bottom: 35px;
+  padding: 80px;
+  width: 100%;
+  font-size: 100px;
+  border: 1px solid #ccc;
+  border-radius: 50px;
+}
+form button {
+  cursor: pointer;
+  color: #fff;
+  border: none;
+  border-radius: 80px;
+  padding: 45px 85px;
+  border-radius: 50px;
+}
+form button:hover {
+  background-color: #0056b3;
+}

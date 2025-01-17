@@ -1,0 +1,39 @@
+.navbar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-self: space-between;
+  background: #fff;
+  padding: 35px;
+  height: 400px;
+}
+ul {
+  flex: 1;
+  list-style: none;
+  text-align: center;
+}
+ul li {
+  display: inline-block;
+  margin: 50px 60px;
+  font-size: 100px;
+  cursor: pointer;
+}
+.search-box {
+  display: flex;
+  align-items: center;
+  background: #242424;
+  padding: 50px 60px;
+  border-radius: 80px;
+}
+.search-box input {
+  padding: 20px;
+  background: transparent;
+  border: 0;
+  outline: 0;
+  color: #fff;
+  font-size: 80px;
+  max-width: 700px;
+}
+.search-box input::placeholder {
+  color: #fff;
+}
