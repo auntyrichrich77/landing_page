@@ -37,7 +37,7 @@ function CTA() {
             <option value="mortgage">Mortgage</option>
             <option value="auto">Auto Loan</option>
           </select>
-          <button type="submit">APPly Now</button>
+          <button type="submit">Apply Now</button>
         </form>
       </div>
     </div>
