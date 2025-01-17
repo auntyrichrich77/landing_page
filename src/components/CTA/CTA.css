@@ -1,31 +1,32 @@
 .apply-today {
   text-align: center;
-  padding: 80px 40px;
-  margin-bottom: 60px;
+  padding: 40px 20px;
+  margin-bottom: 30px;
   background-color: #f5f5dc;
 }
 .apply-today h2 {
-  font-size: 400px;
+  font-size: 200px;
   margin-bottom: 50px;
 }
 .apply-today p {
   font-size: 100px;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
 
 .form-div {
   display: flex;
   justify-content: center;
+  width: 100%;
 }
 form {
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 100%;
-  max-width: 900px;
+  max-width: 2000px;
   padding: 40px;
   border: 1px solid #ddd;
-  border-radius: 50px;
+  border-radius: 30px;
 }
 form input,
 form select,
@@ -35,15 +36,15 @@ form button {
   width: 100%;
   font-size: 100px;
   border: 1px solid #ccc;
-  border-radius: 50px;
+  border-radius: 30px;
 }
 form button {
   cursor: pointer;
   color: #fff;
   border: none;
-  border-radius: 80px;
-  padding: 45px 85px;
-  border-radius: 50px;
+  border-radius: 40px;
+  padding: 25px 45px;
+  border-radius: 30px;
 }
 form button:hover {
   background-color: #0056b3;
