@@ -11,12 +11,6 @@ function CTA() {
   };
   return (
     <div>
-      <div className="apply-today">
-        <h2>Apply for a Loan Today</h2>
-        <p>
-          Get the financial boost you need. Quick and easy application process
-        </p>
-      </div>
       <div className="form-div">
         <form onSubmit={handleSubmit}>
           <input

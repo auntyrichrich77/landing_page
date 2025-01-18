@@ -1,7 +1,7 @@
 .footer {
   background-color: #333;
   color: white;
-  padding: 40px 20px;
+  padding: 20px 5px;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -9,28 +9,28 @@
 .tiltle-logo {
   display: flex;
   align-items: center;
-  gap: 50px;
+  gap: 20px;
 }
 .tiltle-logo h2 {
-  font-size: 100px;
+  font-size: 40px;
   margin: 0;
 }
 .img- h2 {
-  font-size: 40px;
+  font-size: 20px;
 }
 .footer-list {
   display: flex;
-  gap: 700px;
+  gap: 200px;
 }
 .footer-list div {
   flex: 1;
 }
 .footer-list h3 {
-  font-size: 100px;
-  margin-bottom: 15px;
+  font-size: 30px;
+  margin-bottom: 5px;
 }
 .list-container li {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 .last {
   flex: 1;
@@ -41,6 +41,6 @@
 }
 hr {
   border: 1px solid #555;
-  margin: 20px 0;
-  font-size: 60px;
+  margin: 5px 0;
+  font-size: 25px;
 }
